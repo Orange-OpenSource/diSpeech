@@ -1,7 +1,6 @@
 import os
 import json
 import logging
-from numpy.core.fromnumeric import cumprod
 import soundfile
 import numpy as np
 import pandas as pd

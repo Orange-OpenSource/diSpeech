@@ -2,7 +2,6 @@ import torch
 import tdklatt
 import numpy as np
 import pandas as pd
-from scipy import stats
 from espnet2.tts.feats_extract.log_mel_fbank import LogMelFbank
 
 
