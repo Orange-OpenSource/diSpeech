@@ -1,3 +1,12 @@
+# Software Name : diSpeech
+# Version: 1.0.0
+# SPDX-FileCopyrightText: Copyright (c) 2021 Orange Labs
+# SPDX-License-Identifier: MIT
+# This software is distributed under the MIT,
+# the text of which is available at https://opensource.org/licenses/MIT
+# or see the "LICENSE" file for more details.
+# Author: Olivier Zhang
+
 import numpy as np
 from dataset import DiSpeech
 from utils import load_vowel_formants

@@ -1,0 +1,5 @@
+Third Party Licenses
+
+tdklatt - https://github.com/guestdaniel/tdklatt
+License: MIT
+Reference: https://github.com/guestdaniel/tdklatt/blob/master/LICENSE
